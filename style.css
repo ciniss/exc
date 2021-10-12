@@ -28,3 +28,6 @@ h2 {
     font-size: 42px;
     color:white;
 }
+#photo img{
+    border-radius: 20px;
+}
